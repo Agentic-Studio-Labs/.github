@@ -14,9 +14,9 @@ $ uptime
 
 ## ./services
 
-`/consult` — AI Consultation
-`/build` — Build a Tool or Agent
-`/embed` — Sprint Embed with Your Team
+`/consult` — AI Consultation<br>
+`/build` — Build a Tool or Agent<br>
+`/embed` — Sprint Embed with Your Team<br>
 
 → [agenticstudiolabs.com/contact](https://agenticstudiolabs.com/contact.html)
 
