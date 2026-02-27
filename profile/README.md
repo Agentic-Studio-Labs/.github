@@ -3,8 +3,7 @@ $ whoami
 > agentic-studio-labs
 
 $ cat /etc/motd
-> Forward Deployed Engineering — AI, Security & GRC
-> We embed with your team, build the thing, and ship it.
+> We build AI tools and embed with your team to ship them.
 
 $ uptime
 > Accepting engagements → agenticstudiolabs.com
